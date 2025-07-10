@@ -1,0 +1,7 @@
+n=int(input("n: "))
+if n>='a' and n<='z' or n>='A' and n<='Z':
+	print('alphabet')
+elif n>='0' and n<='9':
+	print('numeric string')
+else:
+	print('special charecter')
