@@ -1,1 +1,7 @@
-hi i am Subbu 
+n=int(input("n: "))
+if n>=1 and n<=9:
+	print("single value digit")
+elif n>=10 and n<=99:
+	print("double value digit")
+else:
+	print("three digit value")
