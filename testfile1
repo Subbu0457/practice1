@@ -1,3 +1,4 @@
+adding to the staging area which files are presnt in curent directory
 n=int(input("n: "))
 if n>='a' and n<='z' or n>='A' and n<='Z':
 	print('alphabet')

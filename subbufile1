@@ -1,3 +1,4 @@
+adding the files presented in present directoey to staging area
 n=int(input("n: "))
 if n>=1 and n<=9:
 	print("single value digit")
